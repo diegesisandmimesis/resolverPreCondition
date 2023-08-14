@@ -4,5 +4,6 @@
 -o games/game.t3
 -lib system
 -lib adv3/adv3
+-lib ../../modularExecuteCommand/modularExecuteCommand
 -lib ../resolverPreCondition
 -source src/sample.t
